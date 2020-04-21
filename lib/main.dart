@@ -106,7 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             Spacer(),
             Text(
-              'Logged this many times:',
+              'Logged WiFi this many times:',
             ),
             Text(
               '$_counter',
